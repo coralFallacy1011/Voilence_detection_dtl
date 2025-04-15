@@ -108,12 +108,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-# Real-time Violence Detection System
-
-// ... existing code ...
-
-## License
-
 MIT License
 
 Copyright (c) 2024 [Harshit Saroha]
